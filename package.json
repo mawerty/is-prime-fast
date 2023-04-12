@@ -1,6 +1,6 @@
 {
   "name": "is-prime-fast",
-  "version": "1.1.694",
+  "version": "1.1.695",
   "description": "Fastest algorithm ever created to detect if a number is prime in O(1), that works in 95%+ cases for numbers in the 32-bit int range",
   "files": [
     "README.md"
