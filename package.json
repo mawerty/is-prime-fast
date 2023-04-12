@@ -1,0 +1,23 @@
+{
+  "name": "is-prime-fast",
+  "version": "1.1.694",
+  "description": "Fastest algorithm ever created to detect if a number is prime in O(1), that works in 95%+ cases for numbers in the 32-bit int range",
+  "files": [
+    "README.md"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mawerty/is-prime-fast.git"
+  },
+  "keywords": [
+    "prime",
+    "fast"
+  ],
+  "author": "mawerty",
+  "license": "Beerware (Modified)",
+  "bugs": {
+    "url": "https://github.com/mawerty/is-prime-fast/issues"
+  },
+  "homepage": "https://github.com/mawerty/is-prime-fast#readme"
+}
