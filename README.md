@@ -25,7 +25,7 @@ isPrime(50);
 isPrime("321");
 //=> "I'm getting the sense that this number is composite."
 
-//it also works with numbers written in words
+//it also works with numbers written using words
 isPrime("one hundred and eighteen");
 //=> "I'm getting the feeling that this number is not a prime."
 
